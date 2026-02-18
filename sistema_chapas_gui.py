@@ -1,10 +1,3 @@
-"""
-Sistema Empresarial de Conversão de Chapas
-Versão Moderna - Interface Profissional
-
-Autor: Gustavo Alves
-"""
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 
@@ -153,4 +146,5 @@ resultado_label = tk.Label(
 resultado_label.pack(pady=5)
 
 root.mainloop()
+
 
